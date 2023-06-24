@@ -1,0 +1,135 @@
+/* Global Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+h1, h2 {
+  color: #333333;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Header */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  color: #333333;
+  margin: 0;
+  font-size: 28px;
+}
+
+/* Main Content */
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  margin-top: 0;
+  font-size: 22px;
+  color: #333333;
+}
+
+.login-form, .register-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.cta-button, .login-button, .register-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.signup-link, .login-link {
+  text-align: center;
+  font-size: 14px;
+}
+
+/* Footer */
+footer {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.back-button {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Additional Styles */
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333333;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333333;
+}
+
+button {
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
