@@ -1,5 +1,5 @@
 # 📝 Notes-but-better
-This is a run-of-the-mill CRUD app where you can Create, Read, Update and Delete. It allows for user interaction and database management. I made this for fun on a Friday night. (cries)
+This is a run-of-the-mill CRUD app where you can Create, Read, Update and Delete. It allows for user interaction and database management. I made this for *fun* on a Friday night. (cries)
 
 # HTML Files 🌐
 index.html: This is the front door of the app, welcoming users and guiding them through the functionalities.
